@@ -3,7 +3,7 @@
 
 2. wget https://raw.githubusercontent.com/hadiportofolio/mining-setup-using-hellminer/main/start.sh
 
-3. 
+3. chmod +x start.sh
 
 
 #make crontab - e

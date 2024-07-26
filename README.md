@@ -20,4 +20,9 @@
 
 3. rm run_miner.sh
 
-4. wget
+4. wget https://raw.githubusercontent.com/hadiportofolio/mining-setup-using-hellminer/main/run_miner.sh
+
+5. chmod +x run_miner.sh
+
+# add step
+6. nano run_miner.sh (check cpu ,addrs and server from luckpool or you can change your fav pool) 

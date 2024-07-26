@@ -25,4 +25,8 @@
 5. chmod +x run_miner.sh
 
 # add step
-6. nano run_miner.sh (check cpu ,addrs and server from luckpool or you can change your fav pool) 
+6. nano run_miner.sh (check cpu ,addrs and server from luckpool or you can change your fav pool)
+
+7. screen -ls (check screen run)
+
+8. screen -r mining (to retach with screen)

@@ -1,7 +1,7 @@
 # mining-setup-using-hellminer
 1. make start.sh : nano start.sh
 
-2. wget..
+2. wget https://raw.githubusercontent.com/hadiportofolio/mining-setup-using-hellminer/main/start.sh
 
 3. 
 

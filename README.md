@@ -14,6 +14,6 @@
   
 3. (link : https://github.com/hellcatz/hminer/releases )
 
-2.tar -xvzf hellminer_linux64_avx2.tar.gz
+2. tar -xvzf hellminer_linux64_avx2.tar.gz
 
-3.
+3. 

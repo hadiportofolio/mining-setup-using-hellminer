@@ -16,4 +16,8 @@
 
 2. tar -xvzf hellminer_linux64_avx2.tar.gz
 
-3. 
+------------------------------------------------ this step is only for me beacuse its my wallet addrs 
+
+3. rm run_miner.sh
+
+4. wget
